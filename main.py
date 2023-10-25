@@ -18,3 +18,4 @@ print('Ważna zmiana w main')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("Hej")
+print("TEST 2 to dev")
