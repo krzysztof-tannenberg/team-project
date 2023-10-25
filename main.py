@@ -13,7 +13,10 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Krzysztof')
 
+print('Ważna zmiana w main')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("Hej")
-print("To będzie konfilkit")
+
+print("TEST 2 to dev")
