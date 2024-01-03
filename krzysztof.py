@@ -1,1 +1,1 @@
-print("moje pliki")
+print("moje plikii")
