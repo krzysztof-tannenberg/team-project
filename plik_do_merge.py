@@ -1,0 +1,1 @@
+print("nie ogarniam tego")
