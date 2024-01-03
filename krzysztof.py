@@ -1,1 +1,1 @@
-print("moje plikii")
+print("krzysztof tez")
