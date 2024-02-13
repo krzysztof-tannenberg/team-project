@@ -1,1 +1,2 @@
-cos pisze nowegogg
+
+cos pisze nowego
