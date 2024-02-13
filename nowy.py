@@ -1,1 +1,1 @@
-cos pisze nowego
+cos pisze nowegooooo
